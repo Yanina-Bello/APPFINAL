@@ -11,7 +11,7 @@ const Header = ({ title = "Hola!!" }) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: colors.green2,
+    backgroundColor: colors.teal200,
     height: 80,
     width: '100%',
     justifyContent: 'center',
